@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/palmswap_v3/static/css/main.1050ce21.css",
+    "main.js": "/palmswap_v3/static/js/main.3256458f.js",
+    "static/js/787.fead517c.chunk.js": "/palmswap_v3/static/js/787.fead517c.chunk.js",
+    "static/media/tradingApp.png": "/palmswap_v3/static/media/tradingApp.a3028874736b12e2b3ea.png",
+    "static/media/mobile.png": "/palmswap_v3/static/media/mobile.5cf108abb7c6ebe6bfc9.png",
+    "static/media/socialBackground.png": "/palmswap_v3/static/media/socialBackground.4f764f7b78620cc8899d.png",
+    "static/media/MazzardH-ExtraBold.otf": "/palmswap_v3/static/media/MazzardH-ExtraBold.70ec889065ac55326591.otf",
+    "static/media/ticket1.png": "/palmswap_v3/static/media/ticket1.e352a621fe12c3f4711e.png",
+    "static/media/ticket2.png": "/palmswap_v3/static/media/ticket2.4550846ef3d1edbae3eb.png",
+    "static/media/logo.svg": "/palmswap_v3/static/media/logo.dd29be23db3abab94359536c30faa579.svg",
+    "static/media/blacklogo.svg": "/palmswap_v3/static/media/blacklogo.d11ff7a0b43a03aae02d8f55a30a5dd5.svg",
+    "static/media/twitter.svg": "/palmswap_v3/static/media/twitter.9d5b398b5b0106821da7c1586f6fe1dd.svg",
+    "static/media/logoWithoutText.svg": "/palmswap_v3/static/media/logoWithoutText.a58f82bf2c931f8ea3e1668869024be1.svg",
+    "static/media/btc.svg": "/palmswap_v3/static/media/btc.f185a30ad656ccc1b7b417a828b99071.svg",
+    "index.html": "/palmswap_v3/index.html",
+    "static/media/discord.svg": "/palmswap_v3/static/media/discord.895857a26935889bb114fe80ace82b53.svg",
+    "static/media/telegram.svg": "/palmswap_v3/static/media/telegram.7407b4e842faa215c53d12dc6f54e1ef.svg",
+    "static/media/onChain.svg": "/palmswap_v3/static/media/onChain.eca2a3df8dd77632b402fbc48daaa676.svg",
+    "static/media/leverage.svg": "/palmswap_v3/static/media/leverage.8a998ad98648b214816f1d157ef09123.svg",
+    "static/media/gLiquidity.svg": "/palmswap_v3/static/media/gLiquidity.fb012f8c2a40e79cd0be7b58bc3d82bc.svg",
+    "static/media/medium.svg": "/palmswap_v3/static/media/medium.de16ac6557ed4f096825cf0a3358495e.svg",
+    "static/media/thunder.svg": "/palmswap_v3/static/media/thunder.12f828624d31379d13d8560522023617.svg",
+    "main.1050ce21.css.map": "/palmswap_v3/static/css/main.1050ce21.css.map",
+    "main.3256458f.js.map": "/palmswap_v3/static/js/main.3256458f.js.map",
+    "787.fead517c.chunk.js.map": "/palmswap_v3/static/js/787.fead517c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1050ce21.css",
+    "static/js/main.3256458f.js"
+  ]
+}
